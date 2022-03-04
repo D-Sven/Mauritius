@@ -1,0 +1,16 @@
+# pylons_e050s30_e057s21_3887484
+# do not edit below this line
+# Last Written Fri Mar  4 10:42:08 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 57.62608 -20.09919 158.66 316.216
+# END pylons_e050s30_e057s21_3887484
+# pylons_e050s30_e057s21_3887485
+# do not edit below this line
+# Last Written Fri Mar  4 10:42:29 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 57.62608 -20.09919 158.66 316.097
+OBJECT_BUILDING_MESH_DETAILED e050s30_e057s21_3887485c00.ac 57.64412 -20.10693 0.00 90
+OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac 57.67930 -20.11276 82.75 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac 57.67948 -20.11294 82.89 0
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 57.68805 -20.07588 -459.31 450
+# END pylons_e050s30_e057s21_3887485
