@@ -1,5 +1,5 @@
 <ProceduresDB build='By Sven Seipp Mar 2022 based on https://civil-aviation.govmu.org/Pages/Aeronautical%20Information%20Publication/PART-3.aspx'>
-	<Airport ICAOcode="EDNY">
+	<Airport ICAOcode="FIMP">
 		<Sid Name="UDMED1" Runways="14">
 			<Sid_Waypoint ID="1">
 				<Name>ERBAB</Name>
@@ -411,19 +411,7 @@
 				<Flytype>Fly-by</Flytype>
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
-			<Sid_Waypoint ID="3">
-				<Name>AMBOD</Name>
-				<Type>Normal</Type>
-				<Latitude>-17.377500</Latitude>
-				<Longitude>55.500000</Longitude>
-				<Speed>0</Speed>
-				<Altitude>0</Altitude>
-				<AltitudeCons>0</AltitudeCons>
-				<AltitudeRestriction>at</AltitudeRestriction>
-				<Flytype>Fly-by</Flytype>
-				<Sp_Turn>Auto</Sp_Turn>
-			</Sid_Waypoint>
-                        <Sid_Waypoint ID="4">
+                        <Sid_Waypoint ID="3">
 				<Name>OKMAR</Name>
 				<Type>Normal</Type>
 				<Latitude>-18.201667</Latitude>
@@ -1049,7 +1037,7 @@
 			<Sid_Waypoint ID="1">
 				<Name>EPNES</Name>
 				<Type>Normal</Type>
-				<Latitude>-.450000</Latitude>
+				<Latitude>-20.450000</Latitude>
 				<Longitude>57.725000</Longitude>
 				<Speed>220</Speed>
 				<Altitude>0</Altitude>
@@ -1075,7 +1063,7 @@
 			<Sid_Waypoint ID="1">
 				<Name>EPNES</Name>
 				<Type>Normal</Type>
-				<Latitude>-.450000</Latitude>
+				<Latitude>-20.450000</Latitude>
 				<Longitude>57.725000</Longitude>
 				<Speed>220</Speed>
 				<Altitude>0</Altitude>
@@ -1164,7 +1152,7 @@
 			<Sid_Waypoint ID="1">
 				<Name>EPNES</Name>
 				<Type>Normal</Type>
-				<Latitude>-.450000</Latitude>
+				<Latitude>-20.450000</Latitude>
 				<Longitude>57.725000</Longitude>
 				<Speed>220</Speed>
 				<Altitude>0</Altitude>
@@ -1210,7 +1198,7 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Sid_Waypoint>
 		</Sid>
-                <Sid Name="IBSIS1B" Runways="14">
+                <Sid Name="IBSIS1B" Runways="32">
 			<Sid_Waypoint ID="1">
 				<Name>(600)</Name>
 				<Type>ConstHdgtoAlt</Type>
@@ -1265,7 +1253,7 @@
 			<Sid_Waypoint ID="1">
 				<Name>EPNES</Name>
 				<Type>Normal</Type>
-				<Latitude>-.450000</Latitude>
+				<Latitude>-20.450000</Latitude>
 				<Longitude>57.725000</Longitude>
 				<Speed>220</Speed>
 				<Altitude>0</Altitude>
@@ -1380,8 +1368,8 @@
 			<Star_Waypoint ID="1">
 				<Name>IBSIS</Name>
 				<Type>Normal</Type>
-				<Latitude>-20.278333</Latitude>
-				<Longitude>56.598333</Longitude>
+				<Latitude>-20.773333</Latitude>
+				<Longitude>56.956667</Longitude>
 				<Speed>0</Speed>
 				<Altitude>0</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -1982,7 +1970,6 @@
 				<Sp_Turn>Auto</Sp_Turn>
 			</Star_Waypoint>
 		</Star>
-                
                 <Star Name="UTIVA" Runways="32">
 			<Star_Waypoint ID="1">
 				<Name>UTIVA</Name>
@@ -2984,8 +2971,8 @@
                         <App_Waypoint ID="1">
 				<Name>PLS/12.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.742500</Latitude>
-				<Longitude>9.695667</Longitude>
+				<Latitude>-20.3236</Latitude>
+				<Longitude>57.4675</Longitude>
 				<Speed>0</Speed>
 				<Altitude>4000</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -2996,8 +2983,8 @@
 			<App_Waypoint ID="2">
 				<Name>PLS/9.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.742500</Latitude>
-				<Longitude>9.695667</Longitude>
+				<Latitude>-20.3471</Latitude>
+				<Longitude>57.5147</Longitude>
 				<Speed>0</Speed>
 				<Altitude>4000</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3008,8 +2995,8 @@
 			<App_Waypoint ID="3">
 				<Name>PLS/7.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.7071</Latitude>
-				<Longitude>9.6037</Longitude>
+				<Latitude>-20.3630</Latitude>
+				<Longitude>57.5467</Longitude>
 				<Speed>0</Speed>
 				<Altitude>3200</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3020,8 +3007,8 @@
 			<App_Waypoint ID="4">
 				<Name>PLS/3.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.6926</Latitude>
-				<Longitude>9.5664</Longitude>
+				<Latitude>-20.3935</Latitude>
+				<Longitude>57.6087</Longitude>
 				<Speed>0</Speed>
 				<Altitude>1720</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3059,8 +3046,8 @@
 			<App_Waypoint ID="1">
 				<Name>PLS/12.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.742500</Latitude>
-				<Longitude>9.695667</Longitude>
+				<Latitude>-20.3236</Latitude>
+				<Longitude>57.4675</Longitude>
 				<Speed>0</Speed>
 				<Altitude>4000</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3071,8 +3058,8 @@
 			<App_Waypoint ID="2">
 				<Name>PLS/9.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.742500</Latitude>
-				<Longitude>9.695667</Longitude>
+				<Latitude>-20.3471</Latitude>
+				<Longitude>57.5147</Longitude>
 				<Speed>0</Speed>
 				<Altitude>4000</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3083,8 +3070,8 @@
 			<App_Waypoint ID="3">
 				<Name>PLS/7.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.7071</Latitude>
-				<Longitude>9.6037</Longitude>
+				<Latitude>-20.3630</Latitude>
+				<Longitude>57.5467</Longitude>
 				<Speed>0</Speed>
 				<Altitude>3200</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3095,8 +3082,8 @@
                         <App_Waypoint ID="3">
 				<Name>PLS/4.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.7071</Latitude>
-				<Longitude>9.6037</Longitude>
+				<Latitude>-20.3859</Latitude>
+				<Longitude>57.5931</Longitude>
 				<Speed>0</Speed>
 				<Altitude>2100</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3107,8 +3094,8 @@
 			<App_Waypoint ID="4">
 				<Name>PLS/2.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.6926</Latitude>
-				<Longitude>9.5664</Longitude>
+				<Latitude>-20.4012</Latitude>
+				<Longitude>57.6242</Longitude>
 				<Speed>0</Speed>
 				<Altitude>1360</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3119,8 +3106,8 @@
                         <App_Waypoint ID="5">
 				<Name>PLS/1.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.6926</Latitude>
-				<Longitude>9.5664</Longitude>
+				<Latitude>-20.4090</Latitude>
+				<Longitude>57.6402</Longitude>
 				<Speed>0</Speed>
 				<Altitude>980</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3158,8 +3145,8 @@
 			<App_Waypoint ID="1">
 				<Name>PLS/12.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.742500</Latitude>
-				<Longitude>9.695667</Longitude>
+				<Latitude>-20.3236</Latitude>
+				<Longitude>57.4675</Longitude>
 				<Speed>0</Speed>
 				<Altitude>4000</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3170,8 +3157,8 @@
 			<App_Waypoint ID="2">
 				<Name>PLS/9.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.742500</Latitude>
-				<Longitude>9.695667</Longitude>
+				<Latitude>-20.3471</Latitude>
+				<Longitude>57.5147</Longitude>
 				<Speed>0</Speed>
 				<Altitude>4000</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3182,8 +3169,8 @@
 			<App_Waypoint ID="3">
 				<Name>PLS/7.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.7071</Latitude>
-				<Longitude>9.6037</Longitude>
+				<Latitude>-20.3630</Latitude>
+				<Longitude>57.5467</Longitude>
 				<Speed>0</Speed>
 				<Altitude>3400</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3194,8 +3181,8 @@
                         <App_Waypoint ID="3">
 				<Name>PLS/4.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.7071</Latitude>
-				<Longitude>9.6037</Longitude>
+				<Latitude>-20.3859</Latitude>
+				<Longitude>57.5931</Longitude>
 				<Speed>0</Speed>
 				<Altitude>2200</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3206,8 +3193,8 @@
 			<App_Waypoint ID="4">
 				<Name>PLS/2.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.6926</Latitude>
-				<Longitude>9.5664</Longitude>
+				<Latitude>-20.4012</Latitude>
+				<Longitude>57.6242</Longitude>
 				<Speed>0</Speed>
 				<Altitude>1430</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3218,8 +3205,8 @@
                         <App_Waypoint ID="5">
 				<Name>PLS/1.4</Name>
 				<Type>Normal</Type>
-				<Latitude>47.6926</Latitude>
-				<Longitude>9.5664</Longitude>
+				<Latitude>-20.4090</Latitude>
+				<Longitude>57.6402</Longitude>
 				<Speed>0</Speed>
 				<Altitude>1030</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -3332,8 +3319,8 @@
                         <App_Waypoint ID="1">
 				<Name>PLS/8.0</Name>
 				<Type>Normal</Type>
-				<Latitude>-20.534500</Latitude>
-				<Longitude>57.900500</Longitude>
+				<Latitude>-20.4808</Latitude>
+				<Longitude>57.7890</Longitude>
 				<Speed>0</Speed>
 				<Altitude>1990</Altitude>
 				<AltitudeCons>0</AltitudeCons>
